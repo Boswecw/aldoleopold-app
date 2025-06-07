@@ -1,0 +1,68 @@
+/* ========== 🌿 Primary Colors ========== */
+.forest-green-bg   { background-color: #2F5D50; }
+.forest-green-text { color: #2F5D50; }
+
+.earth-brown-bg    { background-color: #5C4033; }
+.earth-brown-text  { color: #5C4033; }
+
+.sky-blue-bg       { background-color: #76B4BD; }
+.sky-blue-text     { color: #76B4BD; }
+
+/* ========== 🌾 Secondary / Accent Colors ========== */
+.moss-green-bg     { background-color: #A3B18A; }
+.moss-green-text   { color: #A3B18A; }
+
+.goldenrod-bg      { background-color: #DAA520; }
+.goldenrod-text    { color: #DAA520; }
+
+.sand-beige-bg     { background-color: #F3E9DC; }
+.sand-beige-text   { color: #F3E9DC; }
+
+/* ========== ⚪ Neutrals ========== */
+.off-white-bg      { background-color: #FAFAF9; }
+.off-white-text    { color: #FAFAF9; }
+
+.stone-gray-text   { color: #4B4B4B; }
+.soft-black-text   { color: #1C1C1C; }
+
+/* ========== 🧩 Component-Specific ========== */
+.btn-primary {
+  background-color: #2F5D50;
+  border: none;
+  color: white;
+}
+
+.btn-primary:hover {
+  background-color: #24483F;
+}
+
+.btn-info {
+  background-color: #A3B18A;
+  color: #1C1C1C;
+}
+
+.btn-warning {
+  background-color: #DAA520;
+  color: #1C1C1C;
+}
+
+.leopold-title {
+  color: #2F5D50;
+  font-family: 'Merriweather', serif;
+}
+
+.leopold-bg {
+  background-color: #F3E9DC;
+}
+
+body {
+  background-color: #FAFAF9;
+  color: #4B4B4B;
+  font-family: 'Inter', sans-serif;
+}
+
+footer {
+  background-color: #F3E9DC;
+  color: #4B4B4B;
+  padding: 1rem 0;
+}
